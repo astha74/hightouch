@@ -1,0 +1,10 @@
+model: test-model
+destination: test1-s3
+config:
+  mappings: []
+  objectKey: result_demo.csv
+  includeHeader: true
+  autoSyncColumns: true
+schedule:
+  type: manual
+schedulePaused: false
