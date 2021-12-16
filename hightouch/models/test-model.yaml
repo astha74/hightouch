@@ -1,0 +1,8 @@
+name: test_model
+source: test-snowflake
+type: table
+dbtModel: null
+rawSql: ''
+tableName: SD_STAGE.DEMO_TABLE
+isSchema: false
+primaryKey: ID
