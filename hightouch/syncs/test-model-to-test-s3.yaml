@@ -1,0 +1,9 @@
+model: test-model
+destination: test-s3
+config:
+  mappings: []
+  objectKey: test_result.csv
+  autoSyncColumns: true
+schedule:
+  type: manual
+schedulePaused: false
