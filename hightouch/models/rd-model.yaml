@@ -2,7 +2,7 @@ name: Rd-model
 source: test-rd
 type: raw_sql
 dbtModel: null
-rawSql: select * from sd_stage.sd__forex__test__rates LIMIT 20;
+rawSql: select * from sd_stage.sd__forex__test__rates;
 tableName: sd_stage.sd__forex__test__rates
 isSchema: false
 primaryKey: cur_to
