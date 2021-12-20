@@ -1,4 +1,4 @@
-name: test_model
+name: test_model1
 source: test-snowflake
 type: table
 dbtModel: null
